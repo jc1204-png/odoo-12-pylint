@@ -1,15 +1,16 @@
-<<<<<<< HEAD
+
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 =======
 # odoo-12-pylint
 > Run pylint on odoo modules
 > docker odoo pylint
->>>>>>> 5b7e3755809902b7e0b74177e868b33337c545e1
 
-{Container with pylint}
+Docker image : python-3.7:alpine && Pylint Odoo plugin
 ==================================
-{pylint odoo modules}
+pylint odoo modules
 
+- <a href="https://github.com/OCA/pylint-odoo.git" target="_blank">Pylint Odoo plugin
+</a>
 
 ## Usage
 
