@@ -1,10 +1,14 @@
-# odoo-12-pylint
-> Run pylint on odoo modules
-docker odoo pylint
+[![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
-## How to use
+{Container with pylint}
+==================================
+{pylint odoo modules}
+
+
+## Usage
 
 - upload .pylintrc file to .config/ directory on the repo
+
 ### Bitbucket pipeline
 
 ```shell
