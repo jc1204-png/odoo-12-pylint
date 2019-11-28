@@ -1,6 +1,6 @@
 # odoo-12-pylint
 > Run pylint on odoo modules
-docker odoo pylint
+> docker odoo pylint
 
 ## How to use
 
