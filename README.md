@@ -6,7 +6,7 @@ Docker image : python-3.7:alpine & Pylint Odoo plugin
 ==================================
 
 
-- <a href="https://github.com/OCA/pylint-odoo.git" target="_blank">Pylint Odoo plugin
+<a href="https://github.com/OCA/pylint-odoo.git" target="_blank">Pylint Odoo plugin
 </a>
 
 ## Usage
