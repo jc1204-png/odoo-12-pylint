@@ -25,4 +25,3 @@ fi
 pylint --rcfile=/root/.pylintrc --load-plugins=pylint_odoo --exit-zero -ry -e epylint $MODULES
 
 exit $?
-
